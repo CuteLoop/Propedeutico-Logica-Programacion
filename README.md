@@ -35,6 +35,7 @@ Estudiar lógica para:
 - problema: Interés y participación de estudiantes. Es común que si les estudiantes notan que no cuenta una actividad, que pierdan su interés
 - Buscar forma de incluir a todes les estudiantes. Diversificar el tipo de problemas para incluir distintos tipos de razonamientos.
 - Mal consejo: Si quieres reprobar algún estudiante: pregunta por fechas o preguntas muy similares
+- muchas veces antes de terminar de explicar un problema, los estudiantes ya andarán levantando la mano. Anotemos el orden en el que van levantando la mano los estudiantes, sin olvidarnos de darles un tiempo a para intentar el problema antes de que se diga la respuesta.
 
 
 ### 2.1 Historia de la Lógica:
