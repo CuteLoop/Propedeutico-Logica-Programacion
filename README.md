@@ -44,10 +44,10 @@ Estudiar lógica para:
 
 ### 2.2 Tablas de Verdad
 
--Conjunción
--Disyunción
--Disyunción exclusiva
--Condicional
--Bicondicional
--negación
+- Conjunción
+- Disyunción
+- Disyunción exclusiva
+- Condicional
+- Bicondicional
+- negación
 
