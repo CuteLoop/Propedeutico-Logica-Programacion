@@ -44,4 +44,12 @@ Sobre la puerta de roble:
 La voz continúa: "Espero tu elección... Es cuestión de vida o muerte..."  Entonces, nuestro estudiante se despierta, atontado. Recobra lentamente el sentido y se pregunta si su sueño tenía alguna coherencia.
 ¿Pueden ayudarlo?
 
+-Sugerencia Hacer tablas
 
+
+### E.2.2.5.- Los amores de los colaboradores del inspector Lafrite.
+Para dos de los colaboradores de Lafrite, Rene y German, es el momento de distensión nocturna, en un restaurante. Surge la discusión acerca de las relaciones femeninas y de los sentimientos de cada uno.
+
+Rene: "Te diré dos cosas: en primer lugar, amo a Beatriz o a Elena; en segundo lugar, si amo a Beatriz, amo a Elena. Y entonces, ¿puedes decirme, si amo a Beatriz, si amo a Elena?"
+
+B ^ E |  B -> E 
