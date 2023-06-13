@@ -1,1 +1,0 @@
-## ejercicios Tablas de verdad
