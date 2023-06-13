@@ -6,7 +6,7 @@ si aprecias la opinión de los demás, entonces tendrás éxito
 P: aprecias la opinión de los demás
 Q: tendrás éxito
 
-$P \then Q$
+$P \rightarrow Q$
 
 
 ### E.2.2.28.- Iré el sábado si me pagan.
