@@ -3,16 +3,54 @@
 
 ### E.2.2.27.- Tendrás éxito solamente si aprecias la opinión de los demás.
 si aprecias la opinión de los demás, entonces tendrás éxito
-P: aprecias la opinión de los demás
-Q: tendrás éxito
+
+$P$: aprecias la opinión de los demás
+
+$Q$: tendrás éxito
 
 $P \rightarrow Q$
 
 
 ### E.2.2.28.- Iré el sábado si me pagan.
+si me pagan, entonces iré el sábado
+
+$P$: me pagan
+
+$Q$: iré el sábado
+
+$P \rightarrow Q$
+
+
+
 ### E.2.2.29.- Todo le sucede a todo mundo tarde o temprano si hay tiempo suficiente.
+si hay tiempo, entonces todo le sucede a todo el mundo tarde o todo le sucede a todo el mundo temprano
+
+$P$: hay tiempo
+
+$Q$: todo le sucede a todo el mundo tarde
+
+$R$ todo le sucede a todo el mundo temprano
+
+$P \rightarrow Q \vee R $
+
 ### E.2.2.30.- Todo trabajo es noble (Thomas Carlyle).
+
+si es un trabjo, entonces es noble
+
+$P$: es trabajo
+
+$Q$: es noble
+
+$P \rightarrow Q$
+
+
 ### E.2.2.31.- La presencia del oxígeno es necesaria para la combustión.
+
+si hay combustión , entonces hubo presencia de oxígeno o equivalentemente
+
+si no hay oxígeno, entonces no hay combustión
+
+
 ### E.2.2.32.- La combustión es una condición suficiente para la presencia de oxígeno.
 ### E.2.2.33.- Juan es razonable sólo si sabe todos los hechos.
 ### E.2.2.34.- No somos débiles si hacemos uso apropiado de los medio que el Dios de la Naturaleza ha puesto bajo nuestro dominio (Patrick Henry)
