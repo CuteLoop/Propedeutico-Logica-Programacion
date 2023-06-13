@@ -56,10 +56,11 @@ $P$: hay combustión
 
 $Q$: hay presencia de oxígeno
 
-$P \rightarrow Q $ o $ \not Q \rightarrow  \not P $
+$P \rightarrow Q$ o $\neg Q \rightarrow  \neg P $
 
 
 ### E.2.2.32.- La combustión es una condición suficiente para la presencia de oxígeno.
+
 ### E.2.2.33.- Juan es razonable sólo si sabe todos los hechos.
 ### E.2.2.34.- No somos débiles si hacemos uso apropiado de los medio que el Dios de la Naturaleza ha puesto bajo nuestro dominio (Patrick Henry)
 ### E.2.2.35 .- x < 5 siempre que x sea no negativo.
