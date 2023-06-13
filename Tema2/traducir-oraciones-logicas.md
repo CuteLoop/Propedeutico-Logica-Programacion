@@ -46,9 +46,17 @@ $P \rightarrow Q$
 
 ### E.2.2.31.- La presencia del oxígeno es necesaria para la combustión.
 
-si hay combustión , entonces hubo presencia de oxígeno o equivalentemente
+si hay combustión , entonces hay presencia de oxígeno 
+
+o equivalentemente
 
 si no hay oxígeno, entonces no hay combustión
+
+$P$: hay combustión
+
+$Q$: hay presencia de oxígeno
+
+$P \rightarrow Q $ o $ \not Q \rightarrow  \not P $
 
 
 ### E.2.2.32.- La combustión es una condición suficiente para la presencia de oxígeno.
