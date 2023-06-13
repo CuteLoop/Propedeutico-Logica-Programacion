@@ -1,6 +1,6 @@
 # Propedéutico-Lógica-Programación
 
-Este repositorio contiene una guía para profesores que impartirán el curso propedéutico de Lógica y programación para los estudiantes de nuevo ingreso en el Instituto Tecnológico de Hermosillo. Es una recopilación de las enseñanzas del profesor: *Jorge David Gutierrez Cota* quien impartió un curso de capacitación para los profesores de sistemas el ITH.
+Este repositorio contiene una guía para profesores que impartirán el curso propedéutico de Lógica y programación para los estudiantes de nuevo ingreso en el Instituto Tecnológico de Hermosillo. Es una recopilación de las enseñanzas del profesor: *Jorge David Gutierrez Cota* quien impartió un curso de capacitación para los profesores de sistemas del ITH.
 
 además este repositorio contiene consejos para los maestros a la hora de enseñar cada tema del propedéutico y consejos en como resolver los problemas propuestos para el curso y obtener respuestas.
 
