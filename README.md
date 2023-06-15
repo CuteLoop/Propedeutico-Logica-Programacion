@@ -54,3 +54,20 @@ Estudiar lógica para:
 - Bicondicional
 - negación
 
+
+# Tema 3: Pensamiento Estratégico y Bloqueos Mentales
+
+### 
+
+
+# Tema 4: Los Conjuntos
+
+
+
+# Tema 5: Las Matrices
+
+
+# Tema 1: Pensamiento Computacional
+
+
+# Tema 2: Pensamineto Lógico y Computacional
