@@ -17,6 +17,7 @@ además este repositorio contiene consejos para los maestros a la hora de enseñ
 - Presentarse y decir el nombre de compañeros en cascada
 - Aviso: Tres faltas al propedéutico te dan de baja
 - Hay que evaluar, checar requisitos
+- Perspectiva de la carrera
 
 # Tema 1: ¿Qué es la Lógica?
 Estudiar lógica para:
